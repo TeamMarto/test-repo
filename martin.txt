@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 Hello , Martin you are the best!
-=======
+
 jon snow
->>>>>>> 384307eaef620ce2f3f43939d7948790217cffe8
+
