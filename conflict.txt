@@ -1,3 +1,3 @@
-name : Vanka
+name : Vanka - conflict e nujen
 age : 177
 
