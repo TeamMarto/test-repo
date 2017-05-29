@@ -1,4 +1,0 @@
-name : Vanka - conflict e nujen
-age : 177
-
-Hajde na CS party
